@@ -18,3 +18,5 @@ This project uses media queries to ensure everything is displayed properly throu
 
 [mobile view](./images/Spots%20mobile%20view.png)
 [desktop view](./images/Spots%20desktop%20view.png)
+
+[Link to project](https://amamyers90-lgtm.github.io/se_project_spots/)
