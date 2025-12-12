@@ -20,3 +20,8 @@ This project uses media queries to ensure everything is displayed properly throu
 [desktop view](./images/Spots%20desktop%20view.png)
 
 [Link to project](https://amamyers90-lgtm.github.io/se_project_spots/)
+
+## Project Pitch Video
+
+Check out [this video](https://drive.google.com/file/d/1cCOVHMEz5WF4Zwq3pzlkZjy2yKkNpAwj/view?usp=drive_link), where I describe my
+project and some challenges I faced while building it.
